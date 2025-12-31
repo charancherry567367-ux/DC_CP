@@ -18,8 +18,8 @@ code
     public static void main(String[] args) {
         Student obj = new Student();
         obj.creatingStudent();
-        obj.name = "Puneeth";
-        obj.age = 20;
+        obj.name = "Charan";
+        obj.age = 19;
         obj.getName();
         obj.getAge();
     }
